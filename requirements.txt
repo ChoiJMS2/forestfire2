@@ -1,22 +1,13 @@
 pandas
 numpy
-pandas-profiling
-geopandas
-pandas_gbq
 db_dtypes
 lxml
 requests
 BeautifulSoup4
 webdriver_manager
 selenium
-matplotlib
-seaborn
-plotly
-folium
 shapely
 pingouin
-statsmodels
-scikit-learn
 torch 
 tensorflow
 opencv-python 
@@ -25,11 +16,7 @@ efficientnet-pytorch==0.7.1
 tqdm
 streamlit
 streamlit-option-menu
-streamlit_pandas_profiling
-jupyterlab
 google-cloud-bigquery==3.11.1
 google-cloud-bigquery[pandas]
-googlemaps
-streamlit_folium==0.12.0
 
 streamlit_player
