@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fireforest-team-ys-2023",
+  "private_key_id": "b85a84e402858d3757050329f07cc43ff9f54ee1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEYUvTvaw29lR5\nYvb4xuepfePhNPLyWsIfMKp3u5Np/vveBagTmGj6Lqbdd5+LjSiVZp3ZNscoy6Ll\n/jPmqDfDc0T8qwy83yTri7qSTryFH5+O2l66rDZKseUf5MMOpT5JpIwJ40k95l38\nHJoJ7hydkFJz7wo99c9o0gCCnUI7SGemb6vCKPNKWMTHCJF6HKt9txh/i3dpzi5i\naJOmqCJwNj5blLL191enpd5duIEzwn8FpUCFDmXCNbPXQGas70uECON0lVcCMlCW\nxks7DY5B+Efvr4q+uhHhyrVJ3cKRQP7fYRPIUTy5E3xFNsNirB9XtdKzMc6jwJKe\nQ+iiGkm/AgMBAAECggEAK8pedEr5WhA36hGNbRA9nGf8Jr395tkiLH5XpPdo+dvo\nIiw0vJnh3tgEUaJZK29Au3/0dvlmE8zE+HBk9mxQcv8DRSyHXJ6NxxCTfAietTjG\nBb7gHNRGDwX4R9JlRKDIcPeGWrYaIPl7v7pJBynXq7MBD+Uf7Y0gwQkDIB0dJcat\nab9IVLXGO1dNvxzYAYfsyZ3L3DOZMLWzXSFPPfEAg+jRYth+YQL65yHJDupF6SlV\nNLbJCPU4lXmG47IjGar3mf22utN2IQPq8mXK2rvTiw9IU5pJGm/R5w85yhGEjz5+\nA1tbxxGS4oXpGN+cOLhAn3rAg6wCpMsdGXaPzWd78QKBgQDrMjiCU2tUBDISbLgs\nOwdX66g63waoMoCqSUfiX9c9PAre1wwIw49GF2yXYjgQqqW8VcHb1gVfuR6rDp0Z\noUCjryw/rsGiD9huWou9MJL8YNMsekBKmtYpsJsqW4nHCr/9bhMunttGsVkpb9ZZ\nwPvVeAL9okJKENpgK/T2EGwQNQKBgQDVwB+43ZbbaM8OLAXJXp2tO53jKZ6tBD3I\nt4sxKsindNIL5TJ+GLy25B7JnYPJ2XXq+fPCTS2koFVs0m3/uh6syic3Zn5hT14x\nlXMdQR8NyEpuICYezzHajFOmGGrHfDhkLG/KAJ8XxGB3OJVC15laK3R4ZDRSJP+9\nR5tWI4sYowKBgDR7YGC0fJ6i0QmLeQ1lnp3f2ApK+hFOM6fL8l5xRHZFj6dqFSVf\nffkGARVGtXwCmDkOadPETi6uAEnrWOL/OI1N6XHMbSjcoE7/pW7yB9qJQJYMMYx0\nQJXM8tLg2j2wCGdkyKL+j6+Wo267pfkhNxDLVt+B9YjReek75c2CnJqBAoGAAMk5\nFKPz9xCWmlW9G7V2XPm4Jeq0Q6ydUYyjPWYL4NnEH/kSy3Xp075ZAqLKpkZfcaLD\nq7Y+8bkJN2I6t1MG49nGdSSyWEdDcGk9SCFCLPnMlEUX/ssCQux7LkQuuFcTmgKz\n0olYDG1TcXzKx7klPjiksACmVJsAOcD2qEVvMIMCgYEAwFBM4Wa1hryA+uPHRly+\nj7JgbKbu1zu8jWNf2PwrcHcRZGTwZH0Yh79ICEdkz07GxM2JPNQRaON+VuS+z5kM\nzCKFURzMtGrozdavcuqEkvMbEfBppQaSqSxpiLfIIHij1N9qsZSyiJqdI9dqNJ5U\nQTazqk53JPCo6ObtUKuYpvo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fireforest-project@fireforest-team-ys-2023.iam.gserviceaccount.com",
+  "client_id": "109299115530360345928",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fireforest-project%40fireforest-team-ys-2023.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
